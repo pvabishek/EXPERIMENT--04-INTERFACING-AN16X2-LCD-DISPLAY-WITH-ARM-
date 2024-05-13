@@ -213,7 +213,7 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![image](https://github.com/pvabishek/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119405626/7fad0164-4d94-4bff-95b9-2088b3fc2da7)
+![WhatsApp Image 2024-05-11 at 2 45 02 PM](https://github.com/pvabishek/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119405626/515ec8e2-4f18-47f3-94ca-413248c186d1)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
